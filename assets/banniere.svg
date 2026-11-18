@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="Power BI — Portfolio d'analytique de Léo Basile">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d366b"/>
+      <stop offset="1" stop-color="#104281"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+  <g fill="#3987e5" opacity="0.9">
+    <rect x="860" y="150" width="34" height="70" rx="4"/>
+    <rect x="904" y="118" width="34" height="102" rx="4"/>
+    <rect x="948" y="136" width="34" height="84" rx="4"/>
+    <rect x="992" y="92" width="34" height="128" rx="4"/>
+    <rect x="1036" y="66" width="34" height="154" rx="4"/>
+    <rect x="1080" y="40" width="34" height="180" rx="4"/>
+  </g>
+  <polyline points="877,140 921,108 965,126 1009,82 1053,56 1097,30" fill="none" stroke="#cde2fb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#cde2fb">
+    <circle cx="877" cy="140" r="5"/><circle cx="921" cy="108" r="5"/><circle cx="965" cy="126" r="5"/>
+    <circle cx="1009" cy="82" r="5"/><circle cx="1053" cy="56" r="5"/><circle cx="1097" cy="30" r="5"/>
+  </g>
+  <text x="60" y="110" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Power BI</text>
+  <text x="60" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="28" fill="#cde2fb">Portfolio d'analytique et de visualisation</text>
+  <text x="60" y="206" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#9ec5f4">Finance · Immobilier · Opérations · Données sociales</text>
+</svg>
