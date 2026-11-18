@@ -77,5 +77,6 @@ power-bi/
 ---
 
 <p align="center">
-  <sub>Réalisé par <b>Léo Basile</b> · Stratégie d'affaires, IA et analytique · Trois-Rivières, Québec</sub>
+  <sub>Réalisé par <b>Léo Basile</b> · Stratégie d'affaires, IA et analytique · Trois-Rivières, Québec</sub><br><br>
+  <a href="https://www.linkedin.com/in/l%C3%A9o-basile-msc-mba-6702025a"><img src="https://img.shields.io/badge/LinkedIn-Léo%20Basile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
